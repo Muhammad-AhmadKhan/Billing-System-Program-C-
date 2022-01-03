@@ -1,0 +1,14 @@
+2-input AND GATE
+1-input NOT GATE
+2-input OR GATE
+2-input XOR GATE
+3-input NAND GATE
+3-input AND GATE
+D-FLIP FLOP
+3-input OR GATE
+CMOS XNOR GATE
+TTL XNOR GATE
+BCD to 7-segment DECODER IC
+JK-type flip-flop with RESET
+4-input NAND GATE
+2-input NOR GATE

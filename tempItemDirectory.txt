@@ -1,0 +1,84 @@
+7404
+AND GATE
+30
+1
+100
+`
+7408
+1-input NOT GATE
+25
+2
+90
+`
+7432
+2-input OR GATE
+30
+3
+110
+`
+74HCT86
+2-input XOR GATE
+35
+4
+120
+`
+7410
+3-input NAND GATE
+40
+5
+115
+`
+7411
+3-input AND GATE
+40
+6
+80
+`
+7474
+D-FLIP FLOP
+100
+7
+50
+`
+M74HC4075
+3-input OR GATE
+45
+8
+67
+`
+4077
+CMOS XNOR GATE
+50
+9
+70
+`
+74266
+TTL XNOR GATE
+60
+10
+14
+`
+7447
+BCD to 7-segment DECODER IC
+300
+11
+14
+`
+MC74HC73A
+JK-type flip-flop with RESET
+150
+12
+20
+`
+4012
+4-input NAND GATE
+70
+13
+170
+`
+7428
+2-input NOR GATE
+80
+14
+100
+`
